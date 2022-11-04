@@ -1,0 +1,11 @@
+Model Information:
+* title:	Circus Ferris Wheel
+* source:	https://sketchfab.com/3d-models/circus-ferris-wheel-cc6528cdfec84f74b012b37bb523729b
+* author:	LostBoyz2023 (https://sketchfab.com/LB2019)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Circus Ferris Wheel" (https://sketchfab.com/3d-models/circus-ferris-wheel-cc6528cdfec84f74b012b37bb523729b) by LostBoyz2023 (https://sketchfab.com/LB2019) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
